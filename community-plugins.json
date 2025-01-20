@@ -20,6 +20,13 @@
         "description": "Integrate Git version control with automatic backup and other advanced features.",
         "repo": "Vinzent03/obsidian-git"
     },
+   {
+     "id": "file-ignore",
+     "name": "File Ignore",
+     "author": "Feng",
+     "description": "Control Obsidian's file indexing by adding or removing dot prefix to files, providing a .gitignore-like experience",
+     "repo": "Feng6611/Obsidian-File-Ignore"
+   },
     {
         "id": "url-into-selection",
         "name": "Paste URL into selection",
