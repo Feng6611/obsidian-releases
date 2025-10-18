@@ -18548,7 +18548,7 @@
     "author": "Sadnan Saquif",
     "description": "Allows you to listen to your notes using text-to-speech. Uses the browser's built-in speech synthesis capabilities and your default system voices.",
     "repo": "SSaquif/obsidian-chatty"
-  }.
+  },
   {
   "id": "open-in-terminal",
   "name": "Open in Terminal",
